@@ -15,7 +15,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-nishimura/); [Twitter](); [Instagram](https://www.instagram.com/br.yuji/);
 </details>
 
-<br>
 <p align="justify">
   <a href="https://github.com/BrunoNishimura/github-readme-stats">
     <img
@@ -46,7 +45,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 <details>
-  <summary><b>My latest posts</b></summary>
+  <summary><b>My latest posts</b></summary><br>
 
 - 📌 [Gama Academy - XP36](https://www.linkedin.com/pulse/)
 </details>
