@@ -7,7 +7,7 @@
 [![Visitors GH Badge](https://badges.pufler.dev/visits/BrunoNishimura/BrunoNishimura)](https://badges.pufler.dev/visits/BrunoNishimura/BrunoNishimura)
 
 <details open>
-  <summary>About Me</summary><br>
+  <summary>About Me</summary>
 
 - 🔭 I'm currently looking for a career change!
 - 🌱 I’m currently learning JavaScript; CSS; HTML;
@@ -15,19 +15,20 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-nishimura/); [Twitter](); [Instagram](https://www.instagram.com/br.yuji/);
 </details>
 
+<br>
 <p align="justify">
   <a href="https://github.com/BrunoNishimura/github-readme-stats">
     <img
       align="justify"
-      height="165"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=BrunoNishimura&count_private=true&show_icons=true&custom_title=Bruno%20Y.%20Nishimura's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
   <a href="https://github.com/brunonishimura/github-readme-stats">
     <img
-      align="justify"
-      height="165"
+      align="auto"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNishimura&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
