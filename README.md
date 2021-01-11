@@ -4,6 +4,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackexchange.com/users/20332627/bruno-nishimura)](https://stackexchange.com/users/20332627/bruno-nishimura)
 [![Gmail Badge](https://img.shields.io/badge/-by.nishimura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:by.nishimura@gmail.com)](mailto:by.nishimura;2gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/Bruno%20Nishimura/badges/micro)](https://www.codewars.com/users/Bruno%20Nishimura/badges/micro)
+[![Visitors GH Badge](https://badges.pufler.dev/visits/BrunoNishimura/BrunoNishimura)](https://badges.pufler.dev/visits/BrunoNishimura/BrunoNishimura)
 
 <details open>
   <summary>About Me</summary><br>
@@ -19,7 +20,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=BrunoNishimura&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=BrunoNishimura&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
    </a>
 
@@ -27,14 +28,29 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNishimura&layout=compact&theme=radical" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNishimura&layout=compact&theme=dracula" />
   </a>  
 </p>
 
 
-<!--### Technologies:-->
-### Studying:
+<!--### Studying:-->
+### Technologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+
+<details>
+### My latest posts
+
+<br/>
+
+- 📌 [Gama Academy - XP36](https://www.linkedin.com/pulse/)<br />
+
+
+<br/>
+</details>
