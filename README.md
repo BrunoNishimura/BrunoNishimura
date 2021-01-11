@@ -18,15 +18,15 @@
 <p align="justify">
   <a href="https://github.com/BrunoNishimura/github-readme-stats">
     <img
-      align="center"
+      align="justify"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=BrunoNishimura&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=BrunoNishimura&count_private=true&show_icons=true&custom_title=Bruno%20Y.%20Nishimura's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
   <a href="https://github.com/brunonishimura/github-readme-stats">
     <img
-      align="center"
+      align="justify"
       height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNishimura&layout=compact&theme=vision-friendly-dark" />
   </a>  
@@ -45,9 +45,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 <details>
-  <summary><h3><b>My latest posts </b></h3></summary><br/>
+ # <summary><b>My latest posts</b></summary>
 
-- 📌 [Gama Academy - XP36](https://www.linkedin.com/pulse/)<br />
-
-<br/>
+- 📌 [Gama Academy - XP36](https://www.linkedin.com/pulse/)
 </details>
