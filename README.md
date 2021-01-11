@@ -45,7 +45,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 <details>
- # <summary><b>My latest posts</b></summary>
+  <summary><b>My latest posts</b></summary>
 
 - 📌 [Gama Academy - XP36](https://www.linkedin.com/pulse/)
 </details>
