@@ -15,12 +15,12 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-nishimura/); [Twitter](); [Instagram](https://www.instagram.com/br.yuji/);
 </details>
 
-<p align="center">
+<p align="justify">
   <a href="https://github.com/BrunoNishimura/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=BrunoNishimura&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=BrunoNishimura&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
@@ -28,7 +28,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNishimura&layout=compact&theme=dracula" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNishimura&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
@@ -45,12 +45,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 <details>
-### My latest posts
-
-<br/>
+  <summary><h3><b>My latest posts </b></h3></summary><br/>
 
 - 📌 [Gama Academy - XP36](https://www.linkedin.com/pulse/)<br />
-
 
 <br/>
 </details>
