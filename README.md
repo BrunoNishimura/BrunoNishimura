@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-nishimura/)](https://www.linkedin.com/in/bruno-nishimura/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackexchange.com/users/20332627/bruno-nishimura)](https://stackexchange.com/users/20332627/bruno-nishimura)
 [![Gmail Badge](https://img.shields.io/badge/-by.nishimura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:by.nishimura@gmail.com)](mailto:by.nishimura;2gmail.com)
-[![Codewars Badge](https://www.codewars.com/users/Bruno%20Nishimura/badges/micro)](https://www.codewars.com/users/Bruno%20Nishimura/badges/micro)
+[![Codewars Badge](https://www.codewars.com/users/Bruno%20Nishimura/badges/micro)](https://www.codewars.com/users/Bruno%20Nishimura/)
 [![Visitors GH Badge](https://badges.pufler.dev/visits/BrunoNishimura/BrunoNishimura)](https://badges.pufler.dev/visits/BrunoNishimura/BrunoNishimura)
 
 <details open>
