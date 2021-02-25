@@ -46,8 +46,9 @@
 
 <br>
 
+<!--
 <details>
   <summary><b>My latest posts</b></summary><br>
-
 - 📌 [Gama Academy - XP36](https://www.linkedin.com/pulse/)
 </details>
+-->
