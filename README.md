@@ -18,7 +18,6 @@
 <p align="justify">
   <a href="https://github.com/BrunoNishimura/github-readme-stats">
     <img
-      align="justify"
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=BrunoNishimura&count_private=true&show_icons=true&custom_title=Bruno%20Y.%20Nishimura's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
@@ -26,7 +25,6 @@
 
   <a href="https://github.com/brunonishimura/github-readme-stats">
     <img
-      align="auto"
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNishimura&layout=compact&theme=vision-friendly-dark" />
   </a>  
