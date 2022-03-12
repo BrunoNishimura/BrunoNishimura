@@ -9,10 +9,9 @@
 <details open>
   <summary>About Me</summary>
 
-- 🔭 I'm currently looking for a career change!
-- 🌱 I’m currently learning JavaScript; CSS; HTML;
-- 💬 Ask me about chess, pets, songs, series and movies!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-nishimura/); [Twitter](); [Instagram](https://www.instagram.com/br.yuji/);
+- 🌱 I’m currently learning JavaScript, Node.js;
+- 💬 Ask me about chess, series and movies!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-nishimura/); [Twitter](https://twitter.com/By_Nishimura); [Instagram](https://www.instagram.com/by.nishimura/);
 </details>
 
 <p align="justify">
@@ -40,5 +39,4 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-
 <br>
