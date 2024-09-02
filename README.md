@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning JavaScript, Node.js;
 - 💬 Ask me about chess, series and movies!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-nishimura/); [Twitter](https://twitter.com/By_Nishimura);
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-nishimura/);
 </details>
 
 <p align="justify">
